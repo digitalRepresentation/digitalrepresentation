@@ -1,4 +1,13 @@
-### Jinyoung kim's github 👋
+## Full Stack Engineer (frontEnd 希望)
+### 2022年度技術スタック
+Language  
+javascript es6+ / typescript  
+
+Framework
+React.js
+
+Etc
+Redux / github
 
 
 <!-- 訪問者数  -->
