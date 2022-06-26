@@ -1,14 +1,17 @@
-## Full Stack Engineer (frontEnd 希望)
-### 2022年度技術スタック
-Language  
-javascript es6+ / typescript  
+# Full Stack Engineer (frontEnd 勉強中)
+## 2022年度技術スタック
+### Language  
+`javascript (es6、typescript)`、`PHP`、`MySQL`、`PostgreSQL`,`Oracle`、`typescript`、`VB`、`C#`、`Java`  
 
-Framework
-React.js
+### Framework
+`React.js`、`Laravel`、`Symfony`、`.NET`  
 
-Etc
-Redux / github
-
+### Etc
+`Github(PR)`、`firebase`、`GA`、`アジャイル`  
+●　JLPT N1級を持っています。（日本語コミュニケーション問題なし）  
+●　Excel Macroを業務で使われるように作成/メンテナンスが可能です。  
+●　必要になる場合は学習をして業務で使われるようにできます。  
+●　GA/Salesforceのレポートを通して機能提案が可能です。  
 
 <!-- 訪問者数  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitalrepresentation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/digitalRepresentation/)
