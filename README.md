@@ -37,7 +37,7 @@
       </a>
       <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
         <a href="https://github.com/c-owner" class="Link--primary no-underline flex-self-center">
-          <strong>c-owner/strong>
+          <strong>c-owner</strong>
           <span class="color-fg-muted">Corner</span>
         </a>
 </span>    </li>
