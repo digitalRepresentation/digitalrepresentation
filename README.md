@@ -14,10 +14,10 @@
 ●　GA/Salesforceのレポートを通して機能提案が可能です。  
 
 ### 2023年度目標
-● AWSと連携して簡単なサービスをいただくこと。
-● ブログの１日訪問者500人目標。
-● javascript(ES6, React.jsを活用), typescriptを活用すること。
-● ネットワーク知識を詳しく得ること。
+● AWSと連携して簡単なサービスをいただくこと。  
+● ブログの１日訪問者500人目標。  
+● javascript(ES6, React.jsを活用), typescriptを活用すること。  
+● ネットワーク知識を詳しく得ること。  
 
 <!-- 訪問者数  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitalrepresentation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/digitalRepresentation/)
