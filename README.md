@@ -1,5 +1,10 @@
-# Full Stack Engineer (frontEnd 勉強中)
-## 2022年度技術スタック
+# Full Stack Engineer
+### ブログ(githubブログ・wordpress）制作、管理画面、メンテナンス作業行います。
+日本・韓国会社関係なく可能です。
+youngjin1201080@gmail.comにご連絡お願いいたします。
+
+
+## 2024年度技術スタック
 ### Language  
 `javascript (es6、typescript)`、`PHP`、`MySQL`、`PostgreSQL`,`Oracle`、`typescript`、`VB`、`C#`、`Java`  
 
@@ -7,17 +12,17 @@
 `React.js`、`Laravel`、`Symfony`、`.NET`  
 
 ### Etc
-`Github(PR)`、`firebase`、`GA`、`アジャイル`  
+`Github`、`firebase`、`GA`、`アジャイル`、`salesforce`
 ●　JLPT N1級を持っています。（日本語コミュニケーション問題なし）  
 ●　Excel Macroを業務で使われるように作成/メンテナンスが可能です。  
 ●　必要になる場合は学習をして業務で使われるようにできます。  
 ●　GA/Salesforceのレポートを通して機能提案が可能です。  
 
-### 2023年度目標
-● AWSと連携して簡単なサービスをいただくこと。  
-● ブログの１日訪問者500人目標。  
-● javascript(ES6, React.jsを活用), typescriptを活用すること。  
-● ネットワーク知識を詳しく得ること。  
+### 2024年度課題
+● AWS関連勉強
+● 請負作業（1件進む、1件予定）
+● Synology関連、リナックス勉強
+● CSS
 
 <!-- 訪問者数  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitalrepresentation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/digitalRepresentation/)
