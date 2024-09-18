@@ -1,4 +1,3 @@
-# Full Stack Engineer
 ## 実績
 ### Cafe24 (韓国のサービス）
 1. https://hezro.co.kr （韓国インテリア会社）：html,css,javascriptメンテナス
