@@ -1,28 +1,10 @@
 # Full Stack Engineer
-### ブログ(githubブログ・wordpress）制作、管理画面、メンテナンス作業行います。
-日本・韓国会社関係なく可能です。
-youngjin1201080@gmail.comにご連絡お願いいたします。
+## 実績
+### Cafe24 (韓国のサービス）
+1. https://hezro.co.kr （韓国インテリア会社）：html,css,javascriptメンテナス
 
-
-## 2024年度技術スタック
-### Language  
-`javascript (es6、typescript)`、`PHP`、`MySQL`、`PostgreSQL`,`Oracle`、`typescript`、`VB`、`C#`、`Java`  
-
-### Framework
-`React.js`、`Laravel`、`Symfony`、`.NET`  
-
-### Etc
-`Github`、`firebase`、`GA`、`アジャイル`、`salesforce`
-●　JLPT N1級を持っています。（日本語コミュニケーション問題なし）  
-●　Excel Macroを業務で使われるように作成/メンテナンスが可能です。  
-●　必要になる場合は学習をして業務で使われるようにできます。  
-●　GA/Salesforceのレポートを通して機能提案が可能です。  
-
-### 2024年度課題
-● AWS関連勉強
-● 請負作業（1件進む、1件予定）
-● Synology関連、リナックス勉強
-● CSS
+### Laravel
+2. https://bbalmu.com (韓国のゲームサークル）：全般的の作業
 
 <!-- 訪問者数  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitalrepresentation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/digitalRepresentation/)
