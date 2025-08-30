@@ -1,6 +1,6 @@
 ## Profile
-Name: Kim Jinyoung
-E-mail: youngjin1201080@gmail.com
+- Name: Kim Jinyoung
+- E-mail: youngjin1201080@gmail.com
 
 ## About Me 
 - Backend Engineer → Incoming Data Scientist (Automotive Industry)
