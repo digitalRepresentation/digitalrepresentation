@@ -1,12 +1,29 @@
+## Profile
+Name: Kim Jinyoung
+E-mail: youngjin1201080@gmail.com
+
+## About Me 
+- Backend Engineer → Incoming Data Scientist (Automotive Industry)
+- Experienced in PHP, Laravel, MySQL, JavaScript
+- Skilled in Python for Data Analysis; learning advanced AI/ML methods
+- Passionate about AI, Data Engineering, and Automotive Innovation
+
+
 ## 実績
 ### Cafe24 (韓国のサービス）
 1. https://hezro.co.kr （韓国インテリア会社）：html,css,javascriptメンテナス
 
 ### Laravel
-2. https://bbalmu.com (韓国のゲームサークル）：全般的の作業
+2. https://bbalmu.com (韓国のゲームサークル）：全般的の作業 (任意的に閉鎖）
+
+### PHP
+3. https://intlkorea.com/　（韓国の国際情勢）
+
+### WordPress 
+4. https://aozorashika-clinic.jp/ (日本の歯医者さんサイト制作）
 
 ### Blog
-3. https://digitalrepresentation.github.io/
+5. https://digitalrepresentation.github.io/
 
 <!-- 訪問者数  -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitalrepresentation&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/digitalRepresentation/)
